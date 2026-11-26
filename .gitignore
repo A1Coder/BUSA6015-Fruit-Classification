@@ -1,0 +1,27 @@
+# Raw dataset
+data/
+
+# Generated datasets and trained models
+*.npz
+*.keras
+*.h5
+
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# IDE settings
+.vscode/
+
+# Sensitive information
+.env
+
+# Personalised assignment documents
+*.pdf
+*.pptx
+
+# Operating system files
+.DS_Store
+Thumbs.db

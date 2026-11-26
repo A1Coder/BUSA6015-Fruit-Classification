@@ -1,0 +1,2 @@
+model,best_epoch,epochs_completed,training_accuracy,validation_accuracy,validation_loss,validation_macro_f1,training_time_seconds,parameters
+Regularised CNN,16,20,0.8751322627067566,0.8818565607070923,0.30852317810058594,0.880628286584813,22.699792900006287,822662

@@ -1,0 +1,2 @@
+model,best_epoch,training_accuracy,validation_accuracy,validation_loss,validation_macro_f1,training_time_seconds,parameters
+Baseline CNN,11,0.9608465433120728,0.9113923907279968,0.3611045777797699,0.9104905780474081,22.68906390000484,822662

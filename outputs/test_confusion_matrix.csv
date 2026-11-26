@@ -1,0 +1,7 @@
+actual,freshapples,freshbanana,freshoranges,rottenapples,rottenbanana,rottenoranges
+freshapples,43,0,0,7,0,0
+freshbanana,0,48,0,0,1,0
+freshoranges,0,0,37,1,0,5
+rottenapples,1,1,1,65,2,4
+rottenbanana,0,0,0,2,64,2
+rottenoranges,0,0,6,4,0,35
